@@ -8,13 +8,13 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class CheckListViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
 
-
+    override func tableView(tableView:UITableView
 }
 
